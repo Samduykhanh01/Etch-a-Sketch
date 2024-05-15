@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+  border: 1px solid red;
+  padding: 10px;
+}
+
+div.body-container{
+  background-color: azure;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+div.grid{
+  background-color: beige;
+  padding: 10px;
+  border: 1px solid green;
+
+  display: flex;
+}
